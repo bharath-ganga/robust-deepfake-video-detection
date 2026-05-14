@@ -1,0 +1,22 @@
+Datasets Used
+
+1. FaceForensics++
+   - Used for training and evaluation of deepfake detection model
+   - Contains real and manipulated facial videos
+
+2. DeepFake Detection Challenge (DFDC)
+   - Large-scale dataset containing deepfake videos
+   - Used for robustness evaluation
+
+3. Celeb-DF
+   - High-quality deepfake video dataset
+   - Used for testing model generalization
+
+Dataset Type:
+- Video-based deepfake datasets
+
+Preprocessing Steps:
+- Video frame extraction
+- Face detection
+- Face cropping and resizing
+- Image normalization

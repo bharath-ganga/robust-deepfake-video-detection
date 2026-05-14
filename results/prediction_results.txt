@@ -1,0 +1,13 @@
+Sample Prediction Results
+
+Video 1 : Real
+Confidence Score : 97.4%
+
+Video 2 : Deepfake
+Confidence Score : 98.8%
+
+Video 3 : Deepfake
+Confidence Score : 96.9%
+
+Video 4 : Real
+Confidence Score : 95.7%
