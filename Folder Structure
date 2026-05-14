@@ -1,0 +1,14 @@
+robust-deepfake-video-detection/
+│
+├── implementation/
+│   └── deepfake_detection.ipynb
+│
+├── images/
+│
+├── results/
+│
+├── dataset/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
