@@ -104,7 +104,7 @@ robust-deepfake-video-detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/robust-deepfake-video-detection.git
+git clone https://github.com/bharath-ganga/robust-deepfake-video-detection.git
 ```
 
 Install required packages:
